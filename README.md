@@ -38,7 +38,7 @@
 
 ## 🌟 Featured Project
 
-### [LUMA](#)
+### [LUMA](https://github.com/Nidakula/LUMA)
 A creative IoT project that blends hardware and software in new ways. (Ask me more about it!)
 
 ## 💬 Let's Connect!
