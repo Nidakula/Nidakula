@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Public%20Speaking-%23FF9800.svg?&style=for-the-badge&logo=slides&logoColor=white" alt="Public Speaking Badge"/>
 </p>
 
-🎓 I'm a Computer Engineering student with a passion for all things **cybersecurity** and **networking**. When I'm not crafting code, I'm probably tinkering with devices, building something new, or deep-diving into the world of IoT!
+🎓 I'm a Computer Engineering student at Universitas Indonesia with a passion for all things **cybersecurity** and **networking**. When I'm not crafting code, I'm probably tinkering with devices, building something new, or deep-diving into the world of IoT!
 
 ## 🚀 What I Do
 
