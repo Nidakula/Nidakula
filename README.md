@@ -39,7 +39,7 @@
 ## 🌟 Featured Project
 
 ### [LUMA](https://github.com/Nidakula/LUMA)
-A creative IoT project that blends hardware and software in new ways. (Ask me more about it!)
+LUMA (Light Utilization Monitoring for Agriculture) is an Arduino-based system that uses an LDR sensor to monitor light intensity and control a motorized plant cover. It logs data with an RTC DS3231, displays status via I2C LCD, and uses Timer and Interrupts for efficient operation. (Ask me more about it!)
 
 ## 💬 Let's Connect!
 
