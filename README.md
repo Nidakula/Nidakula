@@ -1,6 +1,6 @@
 <p align="center">
   <!-- ganti URL GIF di bawah jika mau -->
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="binary rain" width="900" />
+  <img src="https://tenor.com/view/cyberpunk-hacker-gif-5648977" alt="binary rain" width="900" />
 </p>
 
 
