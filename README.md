@@ -1,3 +1,9 @@
+<p align="center">
+  <!-- ganti URL GIF di bawah jika mau -->
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="binary rain" width="900" />
+</p>
+
+
 # Hi there, I'm Reyhan Ahnaf Deannova! 👋
 
 <p align="center">
