@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- ganti URL GIF di bawah jika mau -->
-  <img src="![giphy](https://github.com/user-attachments/assets/2450d5f0-7963-4f3b-9ed8-c3e1b1f57e1d)" alt="binary rain" width="900" />
+  <img src="https://github.com/user-attachments/assets/2450d5f0-7963-4f3b-9ed8-c3e1b1f57e1d" alt="Hacker Binary GIF" width="1000" height="300"/>
 </p>
 
 # Hi there, I'm Reyhan Ahnaf Deannova!👋
