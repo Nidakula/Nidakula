@@ -17,6 +17,8 @@
 
 🎓 I'm a Computer Engineering student at Universitas Indonesia with a passion for all things **cybersecurity** and **networking**. When I'm not crafting code, I'm probably tinkering with devices, building something new, or deep-diving into the world of IoT!
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3602160" style='border:none;'></iframe>
+
 ## 🚀 What I Do
 
 - 🛡️ Explore the realms of cybersecurity and network engineering
