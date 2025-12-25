@@ -15,9 +15,13 @@
   <img src="https://img.shields.io/badge/Public%20Speaking-%23FF9800.svg?&style=for-the-badge&logo=slides&logoColor=white" alt="Public Speaking Badge"/>
 </p>
 
-🎓 I'm a Computer Engineering student at Universitas Indonesia with a passion for all things **cybersecurity** and **networking**. When I'm not crafting code, I'm probably tinkering with devices, building something new, or deep-diving into the world of IoT!
+<p align="center">
+  <a href="https://tryhackme.com/p/nidakula">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nidakula.png" alt="TryHackMe Badge" />
+  </a>
+</p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3602160" style='border:none;'></iframe>
+🎓 I'm a Computer Engineering student at Universitas Indonesia with a passion for all things **cybersecurity** and **networking**. When I'm not crafting code, I'm probably tinkering with devices, building something new, or deep-diving into the world of IoT!
 
 ## 🚀 What I Do
 
