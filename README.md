@@ -27,11 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> Assembly
 </p>
 
-## 🌟 Featured Project
-
-**[LUMA – Light Utilization Monitoring for Agriculture](https://github.com/Nidakula/LUMA)**  
-Arduino-based system for monitoring light intensity using LDR sensors, RTC-based logging, I2C LCD display, and interrupt-driven control for agricultural optimization.
-
 ## 💬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhan-ahnaf-deannova/)
